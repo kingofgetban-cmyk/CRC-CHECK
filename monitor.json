@@ -1,6 +1,6 @@
 {
   "engine_status": "ON",
-  "crc_check": "ON",
+  "crc_check": "OFF",
   "anti_debug": "ON",
   "deep_scan": "ON",
   "expected_crc": "D88AFA6E"
