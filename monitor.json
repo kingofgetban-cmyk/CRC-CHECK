@@ -1,7 +1,7 @@
 {
-  "engine_status": "OFF",
+  "engine_status": "ON",
   "crc_check": "ON",
   "anti_debug": "ON",
-  "deep_scan": "OFF",
+  "deep_scan": "ON",
   "expected_crc": "0"
 }
