@@ -1,0 +1,7 @@
+{
+  "engine_status": "ON",
+  "crc_check": "ON",
+  "anti_debug": "ON",
+  "deep_scan": "ON",
+  "expected_crc": "ABC12345" 
+}
