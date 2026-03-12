@@ -1,0 +1,11 @@
+{
+  "security_engine_status": 1,
+  "heartbeat_frozen_check": 1,
+  "target_game_integrity_hash": 0,
+  "target_self_integrity_hash": 0,
+  "remote_kick_message": "🚨 Security Violation [MTHXG-API]",
+  "blacklist_hardware_ids": [
+    "hwid_tester_01",
+    "banned_user_123"
+  ]
+}
