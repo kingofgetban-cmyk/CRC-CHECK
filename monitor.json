@@ -3,5 +3,5 @@
   "crc_check": "ON",
   "anti_debug": "ON",
   "deep_scan": "ON",
-  "expected_crc": "6CDB32C0"
+  "expected_crc": "0"
 }
