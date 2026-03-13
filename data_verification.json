@@ -5,7 +5,6 @@
   "target_self_integrity_hash": 0,
   "remote_kick_message": "🚨 Security Violation [MTHXG-API]",
   "blacklist": [
-    "26fe3eea4b5a156e5b1846bb06b589f19d011bed67c318fe226712ec69709873",
-    "banned_user_123"
+    "",
   ]
 }
