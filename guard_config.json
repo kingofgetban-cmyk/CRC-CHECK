@@ -1,0 +1,40 @@
+{
+  "master_switch": true,
+  "lib_url": "https://raw.githubusercontent.com/USER/REPO/main/libDLL.so",
+  "md5_active": true,
+  "expected_md5": "ใส่_MD5_ของไฟล์_แท้ที่นี่",
+
+  "memory_list": [
+    {
+      "name": "ระบบช่วยเล็ง (Aimbot)",
+      "offset": "0x123456",
+      "active": true
+    },
+    {
+      "name": "กระโดดสูง (High Jump)",
+      "offset": "0x345932",
+      "active": true
+    },
+    {
+      "name": "ลดแรงดีด (No Recoil)",
+      "offset": "0x567890",
+      "active": true
+    }
+  ],
+
+  "security_rules": [
+    {
+      "type": "file_exist",
+      "name": "ตรวจพบ Frida",
+      "path": "/data/local/tmp/re.frida.server",
+      "active": true
+    },
+    {
+      "type": "prop_check",
+      "name": "เปิด Debug USB",
+      "key": "ro.debuggable",
+      "expect": "0",
+      "active": true
+    }
+  ]
+}
