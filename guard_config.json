@@ -13,7 +13,7 @@
     {
       "name": "กระโดดสูง (High Jump)",
       "offset": "0x345932",
-      "active": true
+      "active": fasle
     },
     {
       "name": "ลดแรงดีด (No Recoil)",
@@ -34,7 +34,7 @@
       "name": "เปิด Debug USB",
       "key": "ro.debuggable",
       "expect": "0",
-      "active": true
+      "active": false
     }
   ]
 }
