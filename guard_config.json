@@ -1,6 +1,6 @@
 {
   "master_switch": false,
-  "lib_url": "https://raw.githubusercontent.com/USER/REPO/main/libDLL.so",
+  "lib_url": "https://raw.githubusercontent.com/kingofgetban-cmyk/CRC-CHECK/main/lib_verification/libDLL.so",
   "md5_active": true,
   "expected_md5": "ใส่_MD5_ของไฟล์_แท้ที่นี่",
 
