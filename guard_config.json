@@ -1,5 +1,5 @@
 {
-  "master_switch": true,
+  "master_switch": false,
   "lib_url": "https://raw.githubusercontent.com/kingofgetban-cmyk/CRC-CHECK/main/lib_verification/libDLL.so",
   "md5_active": true,
   "expected_md5": "0",
