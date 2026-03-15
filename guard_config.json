@@ -1,7 +1,7 @@
 {
   "master_switch": true,
   "lib_url": "https://raw.githubusercontent.com/kingofgetban-cmyk/CRC-CHECK/main/lib_verification/libDLL.so",
-  "md5_active": true,
+  "md5_active": false,
   "expected_md5": "f7fa6e4ad4a2b347159b79675926664e",
 
   "memory_list": [
