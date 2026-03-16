@@ -1,6 +1,6 @@
 {
-  "security_engine_status": 1,
-  "heartbeat_frozen_check": 1,
+  "security_engine_status": 0,
+  "heartbeat_frozen_check": 0,
   "target_game_integrity_hash": "0x40649051",
   "target_self_integrity_hash": "0x40649051",
   "remote_kick_message": "🚨 Security Violation [MTHXG-API]",
