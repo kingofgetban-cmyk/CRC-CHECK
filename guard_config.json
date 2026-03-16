@@ -1,7 +1,7 @@
 {
-  "master_switch": true,
+  "master_switch": false,
   "lib_url": "https://raw.githubusercontent.com/kingofgetban-cmyk/CRC-CHECK/main/lib_verification/libMTHXG.so",
-  "md5_active": true,
+  "md5_active": false,
   "expected_md5": "c716fc98f02b391d1e57a07282087389",
 
   "memory_list": [
