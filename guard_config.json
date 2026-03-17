@@ -1,5 +1,5 @@
 {
-  "master_switch": false,
+  "master_switch": true,
   "lib_url": "https://raw.githubusercontent.com/kingofgetban-cmyk/CRC-CHECK/main/lib_verification/libMTHXG.so",
   "md5_active": false,
   "expected_md5": "c716fc98f02b391d1e57a07282087389",
